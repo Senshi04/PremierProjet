@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Deuxième application</string>
+    <string name="hello_world">Coucou monde de Farida</string>
+    <string name="title_bouton_ok">Clic le bouton et tu verras</string>
+    <string name="mess_after_clic_ok">Super ! Tu viens de cliquer sur le bouton !</string>
+</resources>
